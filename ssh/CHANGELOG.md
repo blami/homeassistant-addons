@@ -1,5 +1,15 @@
 # Changelog
 
+## 9.20.1
+
+- Fix default shell
+
+## 9.20.0
+
+- Upgrade Home Assistant CLI to 4.41.0
+- Upgrade to Alpine Linux 3.22
+- Upgrade libwebsockets to 4.4.1
+
 ## 9.19.0
 
 - Disable keyboard interactive authentication method if keys are used
